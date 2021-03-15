@@ -3,7 +3,7 @@
 (*english*) I'm now starting a project, of which I am not sure wether or not
 I will be able to finish. 
 'Haltlos' is from Heidelberg.
-The group is to be found under the following section 'About Haltlos'
+The group is to be found through the following section 'About Haltlos'
 
 (*deutsch*) Hier fange ich ein kleines Projekt an, 
 dass schon länger darauf wartet in Angriff genommen zu werden. 
