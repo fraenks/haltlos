@@ -16,3 +16,8 @@ Ihr könnt sie auf den folgenden Wegen erreichen:
 - Facebook:
 - Twitter:
 - Mail:
+
+## My goals
+- getting started with GitHub
+- learning HTML
+- finishing some reasonably well websides
