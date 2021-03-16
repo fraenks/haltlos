@@ -17,7 +17,12 @@ Ihr könnt sie auf den folgenden Wegen erreichen:
 - Twitter:
 - Mail:
 
-## My goals
+## Goals
+- index with discription and new information
+- deeper infos about the members
+- galerie
+
+## My personal goals
 - getting started with GitHub
 - learning HTML
 - finishing some reasonably well websides
