@@ -19,8 +19,8 @@ Ihr könnt sie auf den folgenden Wegen erreichen:
 
 ## Goals
 - index with discription and new information
-- deeper infos about the members
 - galerie
+- good structure and style
 
 ## My personal goals
 - getting started with GitHub
