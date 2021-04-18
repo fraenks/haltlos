@@ -14,7 +14,6 @@ Ihr könnt sie auf den folgenden Wegen erreichen:
 ## About Haltlos
 - Instagram:
 - Facebook:
-- Twitter:
 - Mail:
 
 ## Goals
